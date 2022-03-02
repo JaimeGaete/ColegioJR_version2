@@ -11,6 +11,14 @@ body
     font-family: 'Poppins';
 }
 
+.container {  
+    width: 100%;  
+    padding-right: 15px;  
+    padding-left: 15px;  
+    margin-right: auto;  
+    margin-left: auto;  
+  }  
+
 .header__title {
     text-align: right;
     padding-top: 10px;
@@ -39,4 +47,9 @@ body
     text-align: left;
 }
 
+.borde-rojo {
+    background-color: red;
+}
+
 .carousel img {margin: auto;}
+
